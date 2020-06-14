@@ -4,7 +4,7 @@ title: "Un snood pour adulte !"
 author: "V."
 categories: couture
 tags: [couture, snood]
-image: DSC00205.JPG
+image: DSC00205_CUSTOM.JPG
 ---
 
 ## Liste des ingrédients

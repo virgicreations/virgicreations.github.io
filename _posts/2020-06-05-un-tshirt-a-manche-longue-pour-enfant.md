@@ -4,7 +4,7 @@ title: "Un t-shirt à manche longue pour enfant !"
 author: "V."
 categories: couture
 tags: [couture, t-shirt]
-image: DSC01181.JPG
+image: DSC01181_CUSTOM.JPG
 ---
 
 ## Liste des ingrédients
