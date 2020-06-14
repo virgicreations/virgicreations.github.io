@@ -4,7 +4,7 @@ title: "Des lingettes démaquillantes"
 author: "V."
 categories: couture
 tags: [couture, lingette]
-image: IMG_1840.jpg
+image: IMG_1840.JPG
 ---
 
 ## Liste des ingrédients

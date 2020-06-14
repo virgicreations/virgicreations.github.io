@@ -4,7 +4,7 @@ title: "Un petit lion pour commencer !"
 author: "V."
 categories: tricot
 tags: [tricot, animal, lion]
-image: IMG_1823.jpg
+image: IMG_1823.JPG
 ---
 
 ## Liste des ingrédients

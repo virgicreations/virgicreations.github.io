@@ -4,7 +4,7 @@ title: "Une housse pour protéger son téléphone"
 author: "V."
 categories: couture
 tags: [couture, housse, telephone]
-image: IMG_1841.jpg
+image: IMG_1841.JPG
 ---
 
 ## Liste des ingrédients

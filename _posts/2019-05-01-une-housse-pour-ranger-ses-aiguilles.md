@@ -4,7 +4,7 @@ title: "Une housse pour ranger ses aiguilles"
 author: "V."
 categories: couture
 tags: [couture, housse]
-image: IMG_1861.jpg
+image: IMG_1861.JPG
 ---
 
 ## Liste des ingrédients
