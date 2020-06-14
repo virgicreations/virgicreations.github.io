@@ -1,2 +1,4 @@
-# virgicreations.github.io
-Mon book de mes créations tissu &amp; co.
+# VirgiCreations
+
+VirgiCreations est un blog dédié à la création pour couture ou tricot. 
+Il repose sur le thème Jekyll Millennial.
