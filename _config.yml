@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "VirgiCreations"
-description:	       "Pour les amateurs de coutures et tricots !"
+description:	       "Création coutures et tricots en tout genre"
 author:              "V."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
